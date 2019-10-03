@@ -1,0 +1,45 @@
+--Kevin Ducat
+--DS730
+--Project 2
+--2/24/2019
+----------
+
+--P1 - Birth city of the player that had the most RBI's in his career.
+Mobile
+
+--P2 - Top three birth month / birth years that had the most players born.   Listed in descending order.  More than 3 are listed because there was a tie between the counts.
+11/1968
+8/1979
+9/1983
+2/1983
+10/1982
+
+--P3 - Players who had a unique height.
+Eddie,Gaedel
+Jon,Rauch
+
+--P4 - The team after 1950 that had the most errors. 
+NYN
+
+--P5 - The player and his team where the player had the most errors with a team in all seasons.
+russebi01,LAN
+
+--P6 - The top 3 players who maximize the equation are as follows.   Listed in descending order.
+escobal01
+suzukic01
+hoppeno01
+
+--P7 - Top five  birth city / birth state combinations.  Listed in descending order.
+Atlanta/GA
+Oakland/CA
+Oklahoma City/OK
+Austin/TX
+Utica/NY
+
+--P8 - Worst player to meet the criteria.
+7/LA
+
+
+
+
+
